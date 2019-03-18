@@ -12,7 +12,7 @@ description: some dynamic results of DSP-Based Implementation of a Real-time Sou
 
 Following are some dynamic sound field visualizing test results of the prototype system:
 
-(GIFs loading may need a little time.)
+(GIFs loading may need a little time)
 
 **FPS: 62.5**
 
@@ -50,4 +50,6 @@ Following are some dynamic sound field visualizing test results of the prototype
  
 ![img]({{ '/project_sonah/In_My_Life_L&R_independent.gif' | relative_url }}){: .center-image }*Sound pressure radiated from the left and right woofers and tweeters with the song "In My Life" is captured by the visualization system (in dB). Owing to the recording and mixing technology back in the 60s, the guitars and percussions are panned to the hard left while the vocals and chorus are panned to the hard right, which could be seen from the dynamics of the visualization.*
 
-This post is part of the results of the paper *DSP-Based Implementation of a Real-time Sound Field Visualization System Using SONAH Algorithm*, Zhe Zhang all rights reserved.
+This post is part of the results of the paper *DSP-Based Implementation of a Real-time Sound Field Visualization System Using SONAH Algorithm*.
+
+Zhe Zhang all rights reserved.
