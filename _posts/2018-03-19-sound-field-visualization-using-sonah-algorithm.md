@@ -8,7 +8,11 @@ description: some dynamic results of DSP-Based Implementation of a Real-time Sou
 
 ## DSP-Based Implementation of a Real-time Sound Field Visualization System Using SONAH Algorithm
 
+
+
 Following are some dynamic sound field visualizing test results of the prototype system:
+
+(GIFs loading may need a little time.)
 
 **FPS: 62.5**
 
