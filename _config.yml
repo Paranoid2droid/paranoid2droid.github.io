@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: Nude
+name: Null Island
 description: Learner | Developer | Music Maker
 
 # Url is currently only used only for the RSS feed in feed.xml
@@ -18,7 +18,7 @@ share:
   twitter: true
   gplus: true
   linkedin: true
-  pinterest: true
+  pinterest: false
   email: true
 
 social:
